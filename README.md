@@ -56,23 +56,19 @@ Reach Me!
 ### Third Year
 
 <a href="https://github.com/juansirai/POO2">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=POO2&theme=dark" />
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=OO2&theme=dark" />
 </a>
 
 ### Second Year
 
 <a href="https://github.com/juansirai/AyED">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=AyED&theme=dark" />
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=DBD&theme=dark" />
 </a>  
 
 <a href="https://github.com/juansirai/FOD-Practica">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=FOD-Practica&theme=dark" />
-</a>  
-
-<a href="https://github.com/juansirai/SeminarioPython">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=SeminarioPython&theme=dark" />
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=IS1&theme=dark" />
 </a>  
 
 <a href="https://github.com/juansirai/OO1">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=OO1&theme=dark" />
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=OO1&theme=dark" />
 </a>
