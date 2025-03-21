@@ -1,6 +1,3 @@
-<img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" width= 1200 height=300 >
-
-
 ## 🌍 Hello world!
 * My name is Matias, I'm 20 years old, and I live in La Plata, Buenos Aires (ARG)*
 
