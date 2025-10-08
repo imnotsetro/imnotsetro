@@ -8,11 +8,14 @@
 
 ## 💡 Some Projects
 
+<a href="https://github.com/imnotsetro/ALQUILAR_Proyect">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=ALQUILAR_Proyect&theme=dark" />
+</a>  
 <a href="https://github.com/imnotsetro/pixel-positions">
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=pixel-positions&theme=dark" />
 </a>  
-<a href="https://github.com/imnotsetro/Proyecto-Iron">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=Proyecto-Iron&theme=dark" />
+<a href="https://github.com/imnotsetro/Iron-Manager">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=Iron-Manager&theme=dark" />
 </a>  
 
 ## 💻 University
