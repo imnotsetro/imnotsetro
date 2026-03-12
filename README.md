@@ -45,9 +45,7 @@ Here you can find some of the projects I have been developing while learning sof
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotsetro&show_icons=true&theme=tokyonight)
+## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotsetro&layout=compact&theme=tokyonight)
 
