@@ -47,6 +47,11 @@ Here you can find some of the projects I have been developing while learning sof
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=iron-manager&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
+<a href="https://github.com/imnotsetro/pixel-positions">
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imnotsetro&repo=pixel-positions&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+</a>
+
+
 ---
 
 ## 📊 Top Languages
