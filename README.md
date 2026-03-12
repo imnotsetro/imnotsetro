@@ -3,7 +3,7 @@
 💻 Software Developer Student  
 📍 La Plata, Buenos Aires, Argentina  
 
-I am a **Software Engineering student**
+I am a **Computer Science student**
 
 ---
 
